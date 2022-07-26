@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="NumbStyle">
+        <item name="android:layout_margin">@dimen/layout_margin</item>
+        <item name="android:fontFamily">@font/alex_brush</item>
+        <item name="android:padding">@dimen/layout_padding</item>
+    </style>
+</resources>

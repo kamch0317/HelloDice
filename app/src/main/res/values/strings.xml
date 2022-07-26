@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="textNumber">Welcome to Ong9 Dice</string>
+    <string name="btnNumber">Roll</string>
+    <string name="rollButton">Roll</string>
+    <string name="playerName">Player 1</string>
+    <string name="rules">To pass i to roll a 7 or 11 on the come out roll
+        \n\nTo pass i to roll a 7 or 11 on the come out roll
+        \n\nTo pass i to roll a 7 or 11 on the come out roll
+        \n\nTo pass i to roll a 7 or 11 on the come out roll
+        \n\nTo pass i to roll a 7 or 11 on the come out roll
+        \n\nTo pass i to roll a 7 or 11 on the come out roll
+        \n\nTo pass i to roll a 7 or 11 on the come out roll
+        \n\nTo pass i to roll a 7 or 11 on the come out roll
+        \n\nTo pass i to roll a 7 or 11 on the come out roll
+        \n\nTo pass i to roll a 7 or 11 on the come out roll
+        \n\nTo pass i to roll a 7 or 11 on the come out roll
+        \n\nTo pass i to roll a 7 or 11 on the come out roll
+        \n\nTo pass i to roll a 7 or 11 on the come out roll
+        \n\nTo pass i to roll a 7 or 11 on the come out roll
+        \n\nTo pass i to roll a 7 or 11 on the come out roll
+        \n\nTo pass i to roll a 7 or 11 on the come out roll
+        \n\nTo pass i to roll a 7 or 11 on the come out roll
+        \n\nTo pass i to roll a 7 or 11 on the come out roll
+        \n\nTo pass i to roll a 7 or 11 on the come out roll
+        \n\nTo pass i to roll a 7 or 11 on the come out roll
+        \n\nTo pass i to roll a 7 or 11 on the come out roll
+        \n\nTo pass i to roll a 7 or 11 on the come out roll
+        \n\nTo pass i to roll a 7 or 11 on the come out roll
+    </string>
+    <string name="editPlayerName">Please Type name here</string>
+    <string name="updateBtn">Update</string>
+</resources>
